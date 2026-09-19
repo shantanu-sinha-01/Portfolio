@@ -1,0 +1,133 @@
+{
+  "theme": "light",
+  "profile": {
+    "name": "Shantanu Sinha",
+    "role": "CSE Diploma Student | Full-Stack Developer",
+    "tagline": "Full-stack web. AI. Automation.",
+    "status": "Seeking internship",
+    "location": "Jamshedpur, Jharkhand, India",
+    "about": "I'm a Diploma Computer Science student passionate about full-stack web development, AI-powered applications and automation.\nI build responsive web applications and Python-based projects, and I'm looking for an internship where I can contribute to real-world software development.",
+    "interests": "Web Development, AI & Chatbot Development, Blockchain Development, Software Engineering"
+  },
+  "qualifications": [
+    {
+      "title": "Diploma in Computer Science & Engineering (CSE)",
+      "org": "Arka Jain University, Jamshedpur",
+      "period": "2024 – Present | Expected 2027",
+      "detail": "Current CGPA: 8.10/10 (through Semester III)"
+    },
+    {
+      "title": "Secondary Education (Class X)",
+      "org": "D.A.V. Public School, Adityapur, Jamshedpur",
+      "period": "Completed 2022",
+      "detail": ""
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Programming",
+      "items": "JavaScript, HTML5, CSS3, SQL, Python (Basic)"
+    },
+    {
+      "title": "Web Development",
+      "items": "Node.js, Express.js, Tailwind CSS, Responsive Web Design, REST API Integration"
+    },
+    {
+      "title": "Database",
+      "items": "MySQL, Supabase, Firebase"
+    },
+    {
+      "title": "Tools & Platforms",
+      "items": "Git, GitHub, VS Code, Postman"
+    },
+    {
+      "title": "Soft Skills",
+      "items": "Problem-Solving, Teamwork, Communication, Adaptability, Time Management, Quick Learning"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Law AI Chatbot",
+      "desc": "AI-powered legal chatbot providing law-related assistance using natural language processing.",
+      "tags": "AI, NLP, Chatbot, Full-Stack",
+      "year": "Ongoing | Team project",
+      "live": "",
+      "repo": ""
+    },
+    {
+      "title": "Task Manager",
+      "desc": "Full-stack task management app with secure authentication, dashboard analytics, and role-based user access.",
+      "tags": "Full-Stack, Authentication, Dashboard",
+      "year": "2026 | Major project",
+      "live": "",
+      "repo": ""
+    },
+    {
+      "title": "Personal Task Tracker",
+      "desc": "Task management web app with task prioritization, due dates, search, and a responsive UI.",
+      "tags": "Web App, Responsive UI",
+      "year": "2024",
+      "live": "",
+      "repo": ""
+    },
+    {
+      "title": "Weather Application",
+      "desc": "Fetches real-time weather data for any city using a public weather API.",
+      "tags": "REST API, JavaScript",
+      "year": "2026 | Minor project",
+      "live": "",
+      "repo": ""
+    }
+  ],
+  "internships": [
+    {
+      "title": "Full Stack Web Development Intern",
+      "org": "Astartech AI",
+      "period": "2026 – Ongoing | 1 Month | On-site",
+      "detail": "Developing an AI-powered Law Chatbot as part of a team using full-stack web development technologies."
+    },
+    {
+      "title": "Full Stack Web Development Intern",
+      "org": "Wayspire Infotech",
+      "period": "2026 | 1 Month | Virtual",
+      "detail": "Developed a Weather Application (minor project) and a Task Manager web application (major project)."
+    },
+    {
+      "title": "Full Stack Web Development Intern",
+      "org": "Jyesta Corporate Entity",
+      "period": "2024 | 1 Month | Virtual",
+      "detail": "Developed and deployed the Personal Task Tracker web application."
+    }
+  ],
+  "achievements": [
+    {
+      "text": "AJUCET 2024 Scholarship Examination — Participant."
+    },
+    {
+      "text": "Participated in AJU Hackathon 2026, collaborating in a team to develop an innovative software solution."
+    },
+    {
+      "text": "Presented a project on Automation and Environmental Sustainability at TATA CUMMINS; received a participation certificate."
+    },
+    {
+      "text": "Completed three virtual Full Stack Web Development internships, gaining hands-on experience building real-world web applications."
+    }
+  ],
+  "links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shantanu-sinha-42b3452a6"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/shantanu-sinha-01"
+    }
+  ],
+  "contact": {
+    "phone": "+91 7717760567",
+    "email": "shantanusinha56@gmail.com",
+    "waMessage": "Hi",
+    "mailSubject": "Hi",
+    "mailBody": "Hi"
+  }
+}
