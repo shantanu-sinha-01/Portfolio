@@ -1,8 +1,0 @@
-{
-  "devDependencies": {
-    "prisma": "^8.0.0-rc.15"
-  },
-  "scripts": {
-    "postinstall": "prisma generate || exit 0"
-  }
-}
